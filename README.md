@@ -3,7 +3,7 @@
 Simple bash scripts to make life easier as a learing Java developer.
 
 1. compile_and_run_javafile.sh
-⋅⋅⋅Compile and run your .java file with a single command.
+... Compile and run your .java file with a single command.
 ⋅⋅⋅ Takes your filename as an argument for even faster runtime.
 ⋅⋅⋅ See suggested alias' below.
 ⋅⋅⋅ Example command: jcr Main.java
