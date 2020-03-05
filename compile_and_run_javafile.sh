@@ -1,4 +1,12 @@
-#!/bin/bash
+#!/bin/bash 
+#title           :compile_and_run_javafile.sh
+#description     :Compiles and runs your java project
+#author		 :Emil Elkjær Nielsen
+#date            :05032020
+#version         :0.1   
+#usage		 :bash compile_and_run_javafile.sh
+#suggested alias	:jcr
+#==============================================================================
 
 #Kontrollere om der er givet et argument
 if [[ -n $1 ]]; then
